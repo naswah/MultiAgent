@@ -1,0 +1,10 @@
+Multi-Agent Systems
+Multi-agent systems enable specialized agents to collaborate on complex tasks, improving modularity, scalability, and robustness. Instead of relying on a single agent, tasks are distributed among agents with distinct capabilities.
+
+In smolagents, different agents can be combined to generate Python code, call external tools, perform web searches, and more. By orchestrating these agents, we can create powerful workflows.
+
+Multi-Agent Systems in Action
+A multi-agent system consists of multiple specialized agents working together under the coordination of an Orchestrator Agent. This approach enables complex workflows by distributing tasks among agents with distinct roles.
+
+Solving a complex task with a multi-agent hierarchy
+(multi_agent_system.ipynb)
